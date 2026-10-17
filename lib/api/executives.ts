@@ -8,7 +8,7 @@ export const EXECUTIVE_POSITIONS: Record<ExecutiveGroup, readonly string[]> = {
     "President",
     "Vice President",
     "General Secretary",
-    "Software Director ",
+    "Software Director",
     "Assistant General Secretary",
     "Financial Secretary",
     "Treasurer",

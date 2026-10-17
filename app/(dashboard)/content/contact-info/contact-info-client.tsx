@@ -13,7 +13,7 @@ import { useExecutives } from "@/hooks/use-executives";
 import { ApiClientError } from "@/lib/api/errors";
 
 const FINANCIAL_DIRECTOR_POSITION = "Financial Secretary";
-const SOFTWARE_DIRECTOR_POSITION = "Director of Software, Research and Innovation";
+const SOFTWARE_DIRECTOR_POSITION = "Software Director";
 const NONE_VALUE = "__none__";
 
 type Executive = {
